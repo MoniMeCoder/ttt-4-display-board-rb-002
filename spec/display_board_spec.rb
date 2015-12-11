@@ -1,5 +1,4 @@
 require_relative"../lib/display_board.rb"
-
 describe "#display_board in 'lib/display_board.rb" do
   it 'accepts a board as an argument' do
   end
